@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Сборка и дистрибутивы
+build/
+dist/
+
+# Секреты и локальные настройки
+.env
+*.local
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
